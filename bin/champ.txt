@@ -1,0 +1,10 @@
+{
+    "actorCellId": 1,
+    "championId": 79,
+    "completed": false,
+    "id": 2,
+    "isAllyAction": true,
+    "isInProgress": true,
+    "pickTurn": 1,
+    "type": "pick"
+}
